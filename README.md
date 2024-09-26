@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*fJqv7vyF5vQhUVHDWx0ghw.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif)
 
 <h1 align="center">Hi 👋, I'm Emmanuel Fafa Katako</h1>
 <h3 align="center">A passionate Business Intelligence Developer from Ghana</h3>
