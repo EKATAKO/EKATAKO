@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Business Intelligence Developer from Ghana</h3>
 
 - 🔭 I’m currently working on a **Customer Churn Prediction Model** to enhance client retention strategies.
-- 🌱 I’m learning **Cyber Security Programming** to broaden my expertise in data security and protection.
+- 🌱 I’m currently studying **Cyber Security Programming** to broaden my expertise in data security and protection.
 - 👯 I’m looking to collaborate on:
   - **Data Analytics Projects** that leverage data-driven insights.
   - **Business Intelligence Dashboards** for visual data storytelling.
